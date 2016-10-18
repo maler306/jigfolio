@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  studio: one
+  date: 2016-10-18 11:50:55
+  status: MyString
+  value: 9.99
+
+two:
+  studio: two
+  date: 2016-10-18 11:50:55
+  status: MyString
+  value: 9.99
